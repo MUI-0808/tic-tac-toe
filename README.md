@@ -1,6 +1,6 @@
 <h1 align="center">Salom! Mening ismim Amirxon 👋</h1>
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/your-username?s=200" width="150" height="150"/>
+  <img src="blob:https://web.telegram.org/57200178-a01a-4cae-b135-64fe23bdb144" width="150" height="150"/>
 </p>
 <p align="center">
   Men frontend dasturchiman. Hozirda <b>React.js</b> va <b>Node.js</b> bilan ishlayapman.
